@@ -65,7 +65,7 @@ Coming soon...
 Want to reach out or collaborate?
 
 - GitHub: [HexveilX](https://github.com/HexveilX)
-- Email: your-email@example.com *(replace with your actual contact)*
+- Discord: @zezolz
 
 ---
 
