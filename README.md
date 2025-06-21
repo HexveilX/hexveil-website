@@ -1,30 +1,74 @@
-# Hexveil Personal Portfolio Website
-  
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
-  
-This project is connected to the Convex deployment named [`mild-aardvark-992`](https://dashboard.convex.dev/d/mild-aardvark-992).
-  
-## Project structure
-  
-The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
-  
-The backend code is in the `convex` directory.
-  
-`npm run dev` will start the frontend and backend servers.
+# 🚀 Hexveil Website
 
-## App authentication
+Welcome to the official portfolio website of **HexveilX** – a modern, creative, and fully responsive web presence built with the power of **React**, **Tailwind CSS**, and **Firebase**.
 
-Chef apps use [Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
+---
 
-## Developing and deploying your app
+## 🔧 Technologies Used
 
-Check out the [Convex docs](https://docs.convex.dev/) for more information on how to develop with Convex.
-* If you're new to Convex, the [Overview](https://docs.convex.dev/understanding/) is a good place to start
-* Check out the [Hosting and Deployment](https://docs.convex.dev/production/) docs for how to deploy your app
-* Read the [Best Practices](https://docs.convex.dev/understanding/best-practices/) guide for tips on how to improve you app further
+- ⚛️ React – Component-based frontend
+- 🎨 Tailwind CSS – Utility-first modern styling
+- 🔐 Firebase – Authentication and Firestore database
+- 🔔 Sonner – Toast notifications
+- 🧠 Convex – Realtime backend logic (optional/future)
 
-## HTTP API
+---
 
-User-defined http routes are defined in the `convex/router.ts` file. We split these routes into a separate file from `convex/http.ts` to allow us to prevent the LLM from modifying the authentication routes.
-"# Hexveil-Website" 
-"# Hexveil-Website" 
+## 📁 Project Structure
+
+```
+/public            → Static assets
+/src
+  /components      → Reusable UI components
+  /assets          → Images, logos, etc.
+  App.jsx          → Main app wrapper
+  index.js         → Entry point
+```
+
+---
+
+## 🖥️ Preview
+
+A sleek and minimal dark-themed personal portfolio website with:
+- About / Skills section
+- Projects gallery
+- Contact form (Firebase or external logic)
+- Responsive design across all devices
+
+> 📸 (You can add a screenshot or a live link here later)
+
+---
+
+## 🧪 Getting Started (for developers)
+
+```bash
+# Clone the repo
+git clone https://github.com/HexveilX/Hexveil-Website.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+Coming soon...
+
+---
+
+## 📬 Contact
+
+Want to reach out or collaborate?
+
+- GitHub: [HexveilX](https://github.com/HexveilX)
+- Email: your-email@example.com *(replace with your actual contact)*
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for learning and personal development.
