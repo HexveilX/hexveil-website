@@ -34,10 +34,8 @@ A sleek and minimal dark-themed personal portfolio website with:
 - Projects gallery
 - Contact form (Firebase or external logic)
 - Responsive design across all devices
-
-> 📸 (You can add a screenshot or a live link here later)
-
----
+  
+--- 
 
 ## 🧪 Getting Started (for developers)
 
